@@ -1,4 +1,4 @@
-# Huis te koop
+# Sergeyselsstraat 27, Borgerhout
 
 
 ## Ligging
@@ -29,6 +29,11 @@ tien miljoen miljard
 
 ## Foto's
 
-![keuken](photos/4_3_Keuken.jpg)
+![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
+
+![keuken](photos/4_3_Keuken.jpg)  ![keuken](photos/4_2_Keuken.jpg)
+
+![buiten](6_1_Buiten_aanzicht.jpg)  ![buiten](6_2_Buiten_R.jpg)  ![buiten](6_2_Buiten_L.jpg)
+
 
 
