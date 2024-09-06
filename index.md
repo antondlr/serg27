@@ -1,23 +1,24 @@
 Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar/ lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping/ 4 tot 5 (slaap)kamers/ functionele kelder / energiezuinig en gunstig EPC/ aangename en levendige buurt nabij het Moorkensplein.
 
+[Bekijk foto's](https://www.dropbox.com/scl/fo/co99dbymlr7d7x5i4ej13/AJ7bzhUaRNGUsH22oo72RAw?rlkey=geuibp4rgsk3ji6i6etgr51wb&st=4k41lbxb&dl=0)
+
 ![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
 
 |![keuken](photos/4_3_Keuken.jpg)|![keuken](photos/4_2_Keuken.jpg)|
 |![buiten](photos/6_1_Buiten_aanzicht.jpg)|![buiten](photos/6_2_Buiten_R.jpg)|![buiten](photos/6_2_Buiten_L.jpg)|
 
-[Bekijk meer foto's](https://www.dropbox.com/scl/fo/co99dbymlr7d7x5i4ej13/AJ7bzhUaRNGUsH22oo72RAw?rlkey=geuibp4rgsk3ji6i6etgr51wb&st=4k41lbxb&dl=0)
 
 ## Indeling 
 ### Gelijkvloers 
 - Hal met mogelijkheid om fiets te stallen, bergruimte en toegang tot kelder
 - Leefruimte, eetkamer, open keuken
-- Geïnstalleerde keuken met hoogwaardige toestellen (vaatwas, 5-pits gasfornuis, combi (stoom)oven, microgolf, warmhoudschuif, dampkap) en aansluitend een bergruimte
+- Geïnstalleerde keuken met hoogwaardige toestellen (vaatwas, 5-pits gasfornuis, combi (stoom)oven, microgolf, warmhoudschuif, dampkap, koel-vriescombinatie) en aansluitend een bergruimte
 - Toilet
-- Helemaal onderkelderd op stahoogte: ca.50 m2
+- Onderkelderd op stahoogte: ca.50 m2
 
 ### Eerste verdieping
-- Badkamer ca. 11 m2, met bad,dubbele douche,dubbele lavabo,toilet,aansluiting voor wasmachine,toegang tot terras om bv. droogrek te plaatsen.
-- Kamer 1: ca. 24 m2, rechtstreeks verbonden met de tweede kamer
+- Badkamer ca. 11 m2, met bad, dubbele douche, dubbele lavabo, toilet, aansluiting voor wasmachine, toegang tot terras om bv. droogrek te plaatsen.
+- Kamer 1: ca. 24 m2, rechtstreeks verbonden met de tweede kamer.
 - Kamer 2: ca. 12 m2
  
 ### Tweede verdieping 
@@ -26,7 +27,7 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar/ lichtrijke wonin
   
 ### Oppervlakte
 - Bewoonbaar ca. 186 m2
-- Buitenruimte gelijkvloers ca. 18 m2, oriëntatie: Oost
+- Buitenruimte gelijkvloers ca. 18 m2, oriëntatie: oost
 - Perceel ca. 90 m2
 
 ### Energie
@@ -37,7 +38,7 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar/ lichtrijke wonin
 
 ### Attesten
 - EPC B (148 kWh/m2 jaar), geldig tot 31/05/2024
-- Asbestvrij (Attest opgemaakt op 20/06/2024)
+- Asbestvrij: attest opgemaakt op 20/06/2024
 - Bodemattest aanwezig, geen risicogrond
 
 ### Allerlei
