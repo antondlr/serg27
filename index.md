@@ -1,4 +1,4 @@
-Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar/ lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping/ 4 tot 5 (slaap)kamers/ functionele kelder / energiezuinig en gunstig EPC/ aangename en levedige buurt nabij het Moorkensplein.
+Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar/ lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping/ 4 tot 5 (slaap)kamers/ functionele kelder / energiezuinig en gunstig EPC/ aangename en levendige buurt nabij het Moorkensplein.
 
 ![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
 
