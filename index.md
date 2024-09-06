@@ -12,12 +12,12 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar/ lichtrijke wonin
 ### Gelijkvloers 
 - Hal met mogelijkheid om fiets te stallen, bergruimte en toegang tot kelder
 - Leefruimte, eetkamer, open keuken
-- Geïnstalleerde keuken met hoogwaardige toestellen (vaatwas, 5-pits gasfornuis, combi (stoom)oven, microgolf, warmhoudschuif, dampkap, koel-vriescombinatie) en aansluitend een bergruimte
+- Geïnstalleerde keuken met hoogwaardige toestellen (vaatwas, 5-pits gasfornuis, combi (stoom)oven, microgolf, warmhoudschuif, dampkap, koel-vriescombinatie en aansluitende bergruimte
 - Toilet
 - Onderkelderd op stahoogte: ca.50 m2
 
 ### Eerste verdieping
-- Badkamer ca. 11 m2, met bad, dubbele douche, dubbele lavabo, toilet, aansluiting voor wasmachine, toegang tot terras om bv. droogrek te plaatsen.
+- Badkamer: ca. 11 m2 Uitgerust met bad, dubbele douche, dubbele lavabo, toilet, aansluiting voor wasmachine, toegang tot terras om bv. droogrek te plaatsen.
 - Kamer 1: ca. 24 m2, rechtstreeks verbonden met de tweede kamer.
 - Kamer 2: ca. 12 m2
  
@@ -37,7 +37,7 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar/ lichtrijke wonin
 - Elektrische installatie conform AREI tot 2043
 
 ### Attesten
-- EPC B (148 kWh/m2 jaar), geldig tot 31/05/2024
+- EPC B (148 kWh/m2 jaar), opgemaakt op 31/05/2024
 - Asbestvrij: attest opgemaakt op 20/06/2024
 - Bodemattest aanwezig, geen risicogrond
 
