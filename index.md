@@ -14,7 +14,7 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woni
 - Leefruimte, eetkamer, open keuken
 - Geïnstalleerde keuken met hoogwaardige toestellen (vaatwas, 5-pits gasfornuis, combi (stoom)oven, microgolf, warmhoudschuif, dampkap, koel-vriescombinatie en aansluitende bergruimte
 - Toilet
-- Onderkelderd op stahoogte: ca.50 m²
+- Onderkelderd op stahoogte: ca. 50 m²
 
 #### Eerste verdieping
 - Badkamer: ca. 11 m² Uitgerust met bad, dubbele douche, dubbele lavabo, toilet, aansluiting voor wasmachine, toegang tot terras om bv. droogrek te plaatsen.
@@ -32,20 +32,20 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woni
 
 ### Energie
 - Condensatieketel Vaillant 2014
-- Zonnepanelen (3,5- 4,8 kWp)
+- Zonnepanelen ([3,5](docs/pv_1.jpg)-[4,8](docs/pv_2.png) kWp)
 - Regenwaterrecuperatie (3000L)
-- Elektrische installatie conform AREI tot 2043
+- Elektrische installatie conform AREI, geldig tot 2043
 
 ### Attesten
-- EPC B (148 kWh/m² jaar), opgemaakt op 31/05/2024
-- Asbestvrij: attest opgemaakt op 20/06/2024
-- Bodemattest aanwezig, geen risicogrond
+- [EPC B (148 kWh/m² jaar), opgemaakt op 31/05/2024](docs/epc.pdf)
+- [Asbestvrij: attest opgemaakt op 20/06/2024](docs/asbest.pdf)
+- [Bodemattest aanwezig, geen risicogrond](docs/bodemattest.pdf)
 
 ### Allerlei
 - Aantal gevels: 2
 - Gevelbreedte: 6 m
-- Mobiscore 9.7
-- K.I. 945
+- [Mobiscore 9.7](docs/mobiscore.png)
+- [K.I. 945€](docs/info_kadaster.png)
 - Overstromingsgebied: NVT
 - Beschikbaar: datum in overleg te bepalen
 
