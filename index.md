@@ -59,10 +59,10 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woni
 - 2021: Renovatie voorgevel & installatie zonnepanelen
 
 ## Richtprijs
-523 000,00 euro
+525 000,00 euro
 
 ## Plan je bezoek
-Welkom op donderdag 12/9, vrijdag 13/9 of zaterdag 14/9. Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}
+Welkom op vrijdag 13/9, zaterdag 14/9 of maandag 16/9. Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}
 
 
 
