@@ -1,12 +1,13 @@
-Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar/ lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping/ 4 tot 5 (slaap)kamers/ functionele kelder / energiezuinig en gunstig EPC/ aangename en levendige buurt nabij het Moorkensplein.
+Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping / 4 tot 5 (slaap)kamers / functionele droge kelder / energiezuinig en gunstig EPC / aangename en levendige buurt nabij het Moorkensplein.
 
 [Bekijk alle foto's](https://www.dropbox.com/scl/fo/co99dbymlr7d7x5i4ej13/AJ7bzhUaRNGUsH22oo72RAw?rlkey=geuibp4rgsk3ji6i6etgr51wb&st=4k41lbxb&dl=0)
 
 ![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
+
 |![keuken](photos/4_3_Keuken.jpg)|![keuken](photos/4_2_Keuken.jpg)|
-|![master](photos/7_2_Kamer1.jpg)|[bath](photos/8_1_Badkamer_Wastafel.jpg)|
+|![master](photos/7_2_Kamer1.jpg)|![bath](photos/8_1_Badkamer_Wastafel.jpg)|
 |![buiten](photos/6_2_Buiten_R.jpg)|![buiten](photos/6_2_Buiten_L.jpg)|
-|![gevel](photos/0_0_2_voorgevel.jpg)|[office](photos/9_6_Kamer4.jpg)|
+|![gevel](photos/0_0_2_voorgevel.jpg)|![office](photos/9_6_Kamer4.jpg)|
 
 
 ## Indeling 
