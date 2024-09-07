@@ -1,6 +1,6 @@
 Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping / 4 tot 5 (slaap)kamers / functionele droge kelder / energiezuinig en gunstig EPC / aangename en levendige buurt nabij het Moorkensplein.
 
-[Bekijk alle foto's](https://www.icloud.com/sharedalbum/#B1s5oqs3qqXNtA)
+[Bekijk alle foto's](https://www.icloud.com/sharedalbum/#B1s5oqs3qqXNtA){:target="_blank"}
 
 ![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
 
@@ -33,20 +33,20 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woni
 
 ### Energie
 - Condensatieketel Vaillant 2014
-- Zonnepanelen ([3,5](docs/pv_1.jpg)-[4,8](docs/pv_2.png) kWp)
+- Zonnepanelen ([3,5](docs/pv_1.jpg){:target="_blank"}-[4,8](docs/pv_2.png){:target="_blank"} kWp)
 - Regenwaterrecuperatie (3000L)
 - Elektrische installatie conform AREI, geldig tot 2043
 
 ### Attesten
-- [EPC B (148 kWh/m² jaar), opgemaakt op 31/05/2024](docs/epc.pdf)
-- [Asbestvrij: attest opgemaakt op 20/06/2024](docs/asbestattest.pdf)
-- [Bodemattest aanwezig, geen risicogrond](docs/bodemattest.pdf)
+- [EPC B (148 kWh/m² jaar), opgemaakt op 31/05/2024](docs/epc.pdf){:target="_blank"}
+- [Asbestvrij: attest opgemaakt op 20/06/2024](docs/asbestattest.pdf){:target="_blank"}
+- [Bodemattest aanwezig, geen risicogrond](docs/bodemattest.pdf){:target="_blank"}
 
 ### Allerlei
 - Aantal gevels: 2
 - Gevelbreedte: 6 m
-- [Mobiscore 9.7](docs/mobiscore.png)
-- [K.I. 945€](docs/info_kadaster.png)
+- [Mobiscore 9.7](docs/mobiscore.png){:target="_blank"}
+- [K.I. 945€](docs/info_kadaster.png){:target="_blank"}
 - Overstromingsgebied: NVT
 - Beschikbaar: datum in overleg te bepalen
 
@@ -60,8 +60,7 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woni
 523 000,00 euro
 
 ## Plan je bezoek
-Welkom op donderdag 12/9, vrijdag 13/9 of zaterdag 14/9. Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09)
-
+Welkom op donderdag 12/9, vrijdag 13/9 of zaterdag 14/9. Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}
 
 
 
