@@ -4,9 +4,10 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woni
 
 ![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
 
+|![gevel](photos/0_0_2_voorgevel.jpg)|![buiten](photos/6_2_Buiten_R.jpg)|
 |![keuken](photos/4_3_Keuken.jpg)|![keuken](photos/4_2_Keuken.jpg)|
+|![zithoek](photos/3_Zitruimte.jpg)|![beneden](photos/2_Voor_achter_zicht_gve.jpg)|
 |![master](photos/7_2_Kamer1.jpg)|![office](photos/9_6_Kamer4.jpg)|
-|![buiten](photos/6_2_Buiten_R.jpg)|![gevel](photos/0_0_2_voorgevel.jpg)|
 
 ## Indeling 
 #### Gelijkvloers 
