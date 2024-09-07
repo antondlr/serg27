@@ -1,6 +1,6 @@
 Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping / 4 tot 5 (slaap)kamers / functionele droge kelder / energiezuinig en gunstig EPC / aangename en levendige buurt nabij het Moorkensplein.
 
-[Bekijk alle foto's](https://www.dropbox.com/scl/fo/co99dbymlr7d7x5i4ej13/AJ7bzhUaRNGUsH22oo72RAw?rlkey=geuibp4rgsk3ji6i6etgr51wb&st=4k41lbxb&dl=0)
+[Bekijk alle foto's](https://www.icloud.com/sharedalbum/#B1s5oqs3qqXNtA)
 
 ![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
 
@@ -38,7 +38,7 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woni
 
 ### Attesten
 - [EPC B (148 kWh/m² jaar), opgemaakt op 31/05/2024](docs/epc.pdf)
-- [Asbestvrij: attest opgemaakt op 20/06/2024](docs/asbest.pdf)
+- [Asbestvrij: attest opgemaakt op 20/06/2024](docs/asbestattest.pdf)
 - [Bodemattest aanwezig, geen risicogrond](docs/bodemattest.pdf)
 
 ### Allerlei
