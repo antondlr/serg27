@@ -9,6 +9,8 @@ Eéngezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woni
 |![zithoek](photos/3_Zitruimte.jpg)|![beneden](photos/2_Voor_achter_zicht_gve.jpg)|
 |![master](photos/7_2_Kamer1.jpg)|![office](photos/9_6_Kamer4.jpg)|
 
+[Bekijk alle foto's](https://www.icloud.com/sharedalbum/#B1s5oqs3qqXNtA){:target="_blank"}
+
 ## Indeling 
 #### Gelijkvloers 
 - Hal met mogelijkheid om fiets te stallen, bergruimte en toegang tot kelder
