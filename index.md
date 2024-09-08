@@ -62,5 +62,5 @@ Ruime eengezinswoning met stadstuin / instapklare totaalrenovatie met hoogwaardi
 
 ## Plan je bezoek
 Welkom op vrijdag 13/9, zaterdag 14/9 of maandag 16/9. Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}  
-Past dit niet? Graag een seintje. 
+Past dit niet? [Graag een seintje.](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}
 
