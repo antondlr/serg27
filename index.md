@@ -5,7 +5,7 @@ Ruime eengezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke
 ![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
 
 |![gevel](photos/0_0_2_voorgevel.jpg)|![beneden](photos/2_Voor_achter_zicht_gve.jpg)|
-|![keuken](photos/4_3_Keuken.jpg)|!![buiten](photos/6_4_Buiten.jpg)|
+|![keuken](photos/4_3_Keuken.jpg)|![buiten](photos/6_4_Buiten.jpg)|
 |![master](photos/7_2_Kamer1.jpg)|![office](photos/9_6_Kamer4.jpg)|
 
 [Bekijk alle foto's](https://www.icloud.com/sharedalbum/#B1s5oqs3qqXNtA){:target="_blank"}
