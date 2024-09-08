@@ -1,4 +1,4 @@
-Ruime eengezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping / 4 tot 5 (slaap)kamers / functionele droge kelder / energiezuinig en gunstig EPC / aangename en levendige buurt nabij het Moorkensplein.
+Ruime eengezinswoning met stadstuin / instapklare totaalrenovatie met hoogwaardige materialen / lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping / 4 tot 6 (slaap)kamers / functionele droge kelder / energiezuinig en gunstig EPC / aangename en levendige buurt nabij het Moorkensplein.
 
 [Bekijk alle foto's](https://www.icloud.com/sharedalbum/#B1s5oqs3qqXNtA){:target="_blank"}
 
@@ -33,7 +33,7 @@ Ruime eengezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke
 - Perceel ca. 90 m²
 
 ### Energie
-- Condensatieketel Vaillant 2014
+- Condensatieketel Vaillant EcoTec Plus (2014)
 - Zonnepanelen ([3,5](docs/pv_1.jpg){:target="_blank"}-[4,8](docs/pv_2.png){:target="_blank"} kWp)
 - Regenwaterrecuperatie (3000L)
 - Elektrische installatie conform AREI, geldig tot 2043
@@ -63,5 +63,4 @@ Ruime eengezinswoning met stadstuin / totaalrenovatie & instapklaar / lichtrijke
 ## Plan je bezoek
 Welkom op vrijdag 13/9, zaterdag 14/9 of maandag 16/9. Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}  
 Past dit niet? Graag een seintje. 
-
 
