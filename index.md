@@ -61,6 +61,6 @@ Ruime eengezinswoning met stadstuin / instapklare totaalrenovatie met hoogwaardi
 525 000,00 euro
 
 ## Plan je bezoek
-Welkom op vrijdag 13/9, zaterdag 14/9 of maandag 16/9. Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}  
+Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}  
 Past dit niet? [Graag een seintje.](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}
 
