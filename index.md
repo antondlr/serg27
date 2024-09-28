@@ -57,6 +57,6 @@ Ruime eengezinswoning met stadstuin / instapklare totaalrenovatie met hoogwaardi
 525 000,00 euro
 
 ## Plan je bezoek
-Maak een afspraak via [deze agenda](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}  
-Past dit niet? [Graag een seintje.](https://calendly.com/annesmits/30min?month=2024-09){:target="_blank"}
+Maak een afspraak via [deze agenda](https://calendly.com/serg27/30min?month=2024-10){:target="_blank"}  
+Past dit niet? [Graag een seintje.](mailto:info@sergeyselssstraat.site)
 
