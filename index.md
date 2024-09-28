@@ -1,14 +1,10 @@
 Ruime eengezinswoning met stadstuin / instapklare totaalrenovatie met hoogwaardige materialen / lichtrijke woning door de brede gevel, grote ramen en hoge plafonds op iedere verdieping / 4 tot 6 (slaap)kamers / functionele droge kelder / energiezuinig en gunstig EPC / aangename en levendige buurt nabij het Moorkensplein.
 
-[Bekijk alle foto's](https://www.icloud.com/sharedalbum/#B1s5oqs3qqXNtA){:target="_blank"}
-
 ![leefruimte](photos/0_4_1_Leefruimte_gve.jpg)  
 
-|![gevel](photos/0_0_2_voorgevel.jpg)|![beneden](photos/2_Voor_achter_zicht_gve.jpg)|
-|![keuken](photos/4_3_Keuken.jpg)|![buiten](photos/6_4_Buiten.jpg)|
-|![master](photos/7_2_Kamer1.jpg)|![office](photos/9_6_Kamer4.jpg)|
+|![keuken](photos/keuken.jpg)|![beneden](photos/beneden.jpg)|
+|![slpk](photos/slpk.jpg)|![gang](photos/gang.jpg)|
 
-[Bekijk alle foto's](https://www.icloud.com/sharedalbum/#B1s5oqs3qqXNtA){:target="_blank"}
 
 ## Indeling 
 #### Gelijkvloers 
