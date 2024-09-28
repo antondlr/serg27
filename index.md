@@ -58,5 +58,5 @@ Ruime eengezinswoning met stadstuin / instapklare totaalrenovatie met hoogwaardi
 
 ## Plan je bezoek
 Maak een afspraak via [deze agenda](https://calendly.com/serg27/30min?month=2024-10){:target="_blank"}  
-Past dit niet? [Graag een seintje.](mailto:info@sergeyselssstraat.site)
+Past dit niet? [Graag een seintje.](mailto:info@sergeyselsstraat.site)
 
